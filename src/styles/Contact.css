@@ -1,0 +1,11 @@
+.contact-link {
+  color: #bb86fc; /* purple accent */
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.contact-link:hover {
+  color: #ffffff;
+  text-shadow: 0 0 8px rgba(187, 134, 252, 0.8);
+}
