@@ -70,7 +70,7 @@ export default function Hero() {
         >
           <div className="portrait-wrapper">
             <img
-              src="/public/portrait.jpg"
+              src="portrait.jpg"
               alt="portrait"
               className="portrait"
             />
