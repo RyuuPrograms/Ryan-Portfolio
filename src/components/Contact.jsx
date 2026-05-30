@@ -78,6 +78,14 @@ export default function Contact() {
               rel="noopener noreferrer"
             >
               💼 LinkedIn
+
+              <a
+              href="https://www.facebook.com/rasalan.ryan"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💬 Facebook: Ryan Rasalan
+            </a>
             </a>
           </div>
         </div>
